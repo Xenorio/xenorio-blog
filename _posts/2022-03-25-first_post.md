@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "My first blog post"
-date: 2020-03-25 17:52:00 +01:00
+date: 2022-03-25 17:52:00 +01:00
 ---
 
 # So i set up a blog
